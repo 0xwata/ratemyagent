@@ -1,6 +1,6 @@
 # RatemyAgent(mitsukeru project)
 
-> 技術要件: Nuxt.js + Firebase (参考：https://inside.dmm.com/entry/2018/04/10/nuxt-firebase）
+> 技術要件: Vue.js + Firebase (参考：https://inside.dmm.com/entry/2018/04/10/nuxt-firebase）
 
 ## Build Setup
 
